@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: SEU-USUARIO/SEU-REPOSITORIO   # troque
+  repo: danielalvespinheiro/jornal-ia   # troque
   branch: main
 publish_mode: editorial_workflow     # rascunho -> revisão -> publicação
 locale: pt
