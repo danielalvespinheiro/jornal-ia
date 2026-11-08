@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "year": 1700,
+      "title": "Fundamentos",
+      "text": "Lógica, probabilidade e a ideia de raciocínio mecânico: de Leibniz a Boole."
+    },
+    {
+      "year": 1950,
+      "title": "Alan Turing",
+      "text": "O artigo 'Computing Machinery and Intelligence' propõe o jogo da imitação."
+    },
+    {
+      "year": 1956,
+      "title": "Conferência de Dartmouth",
+      "text": "O campo ganha nome e comunidade."
+    },
+    {
+      "year": 1965,
+      "title": "Sistemas especialistas",
+      "text": "Regras codificadas por especialistas, como o DENDRAL, resolvem tarefas estreitas."
+    },
+    {
+      "year": 1974,
+      "title": "Primeiro inverno",
+      "text": "Cortes de verba após promessas não cumpridas."
+    },
+    {
+      "year": 1987,
+      "title": "Segundo inverno",
+      "text": "Colapso do mercado de máquinas especializadas."
+    },
+    {
+      "year": 1997,
+      "title": "Aprendizado de máquina",
+      "text": "Métodos estatísticos dominam; Deep Blue vence Kasparov no xadrez."
+    },
+    {
+      "year": 2012,
+      "title": "Deep Learning",
+      "text": "A rede AlexNet vence a competição ImageNet por larga margem."
+    },
+    {
+      "year": 2014,
+      "title": "Modelos generativos",
+      "text": "Surgem as redes adversárias generativas (GANs)."
+    },
+    {
+      "year": 2017,
+      "title": "Transformers",
+      "text": "A atenção substitui a recorrência no processamento de linguagem."
+    },
+    {
+      "year": 2022,
+      "title": "Grandes modelos de linguagem",
+      "text": "Assistentes conversacionais chegam ao público geral."
+    },
+    {
+      "year": 2025,
+      "title": "Avanços recentes",
+      "text": "Modelos multimodais, agentes e debate regulatório."
+    }
+  ]
+}

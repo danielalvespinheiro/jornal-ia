@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "title": "Guia de Introdução à IA",
+      "cat": "Introdução",
+      "type": "Guia",
+      "desc": "Conceitos básicos em linguagem simples.",
+      "file": "/assets/documents/guia-introducao-ia.pdf"
+    },
+    {
+      "title": "Linha do Tempo da IA",
+      "cat": "História",
+      "type": "Infográfico",
+      "desc": "Marcos de 1950 aos dias atuais.",
+      "file": "/assets/documents/linha-do-tempo-ia.pdf"
+    },
+    {
+      "title": "Caderno de Machine Learning",
+      "cat": "Machine Learning",
+      "type": "Apostila",
+      "desc": "Exercícios de classificação e regressão.",
+      "file": "/assets/documents/caderno-machine-learning.pdf"
+    },
+    {
+      "title": "Manual de Engenharia de Prompts",
+      "cat": "Ferramentas",
+      "type": "Manual",
+      "desc": "Padrões para pedir respostas melhores.",
+      "file": "/assets/documents/manual-prompts.pdf"
+    },
+    {
+      "title": "IA em Sala de Aula",
+      "cat": "Educação",
+      "type": "Artigo",
+      "desc": "Orientações para professores.",
+      "file": "/assets/documents/ia-sala-de-aula.pdf"
+    },
+    {
+      "title": "Princípios de Ética em IA",
+      "cat": "Ética",
+      "type": "Relatório",
+      "desc": "Resumo de princípios e riscos.",
+      "file": "/assets/documents/etica-ia.pdf"
+    }
+  ]
+}

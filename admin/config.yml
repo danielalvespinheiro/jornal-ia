@@ -1,0 +1,101 @@
+backend:
+  name: github
+  repo: SEU-USUARIO/SEU-REPOSITORIO   # troque
+  branch: main
+publish_mode: editorial_workflow     # rascunho -> revisão -> publicação
+locale: pt
+media_folder: assets/images
+public_folder: /assets/images
+collections:
+  - name: portal
+    label: Conteúdo do portal
+    files:
+      - label: Artigos
+        name: artigos
+        file: content/articles.json
+        fields:
+          - label: Artigos
+            name: items
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Identificador (minúsculas, números e hífen), name: id, widget: string, pattern: ['^[a-z0-9-]+$', 'Use só minúsculas, números e hífen']}
+              - {label: Categoria, name: cat, widget: select, options: ["História da IA","Notícias e descobertas","Ferramentas de IA","Aplicações práticas","Pesquisas","Ética e impactos sociais"]}
+              - {label: Título, name: title, widget: string}
+              - {label: Subtítulo, name: sub, widget: string}
+              - {label: Autor, name: author, widget: string}
+              - {label: Data, name: date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: Ano do tema, name: year, widget: number}
+              - {label: Imagem de capa, name: image, widget: image, required: false, choose_url: false}
+              - label: Seções
+                name: sections
+                widget: list
+                fields:
+                  - {label: Subtítulo da seção, name: heading, widget: string}
+                  - {label: Texto, name: text, widget: text}
+              - label: Referências
+                name: refs
+                widget: list
+                field: {label: Referência, name: ref, widget: string}
+      - label: Aulas
+        name: aulas
+        file: content/lessons.json
+        fields:
+          - label: Aulas
+            name: items
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Identificador, name: id, widget: string, pattern: ['^[a-z0-9-]+$', 'Use só minúsculas, números e hífen']}
+              - {label: Módulo (categoria), name: cat, widget: string}
+              - {label: Nível, name: level, widget: select, options: [Iniciante, Intermediário, Avançado]}
+              - {label: Título, name: title, widget: string}
+              - {label: Descrição, name: desc, widget: string}
+              - {label: Conteúdo, name: content, widget: text}
+              - label: Materiais complementares
+                name: extra
+                widget: list
+                field: {label: Material, name: item, widget: string}
+      - label: Biblioteca (PDFs)
+        name: biblioteca
+        file: content/library.json
+        fields:
+          - label: Materiais
+            name: items
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Título, name: title, widget: string}
+              - {label: Categoria, name: cat, widget: string}
+              - {label: Tipo, name: type, widget: select, options: [Guia, Apostila, Manual, Artigo, Relatório, Infográfico, Livro]}
+              - {label: Descrição, name: desc, widget: string}
+              - {label: Arquivo PDF, name: file, widget: file, media_folder: /assets/documents, public_folder: /assets/documents, choose_url: false}
+      - label: Vídeo aulas
+        name: videos
+        file: content/videos.json
+        fields:
+          - label: Vídeos
+            name: items
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Título, name: title, widget: string}
+              - {label: Categoria, name: cat, widget: string}
+              - {label: Duração (ex. 12 min), name: dur, widget: string}
+              - {label: Descrição, name: desc, widget: string}
+              - {label: Código do vídeo no YouTube (11 caracteres; recomendado), name: embed, widget: string, required: false, pattern: ['^[A-Za-z0-9_-]{11}$', 'O código tem 11 caracteres']}
+              - {label: Ou arquivo de vídeo (MP4/WebM, até ~25 MB), name: src, widget: file, required: false, media_folder: /assets/videos, public_folder: /assets/videos, choose_url: false}
+              - {label: Miniatura, name: thumb, widget: image, required: false, choose_url: false}
+      - label: Linha do tempo
+        name: historia
+        file: content/timeline.json
+        fields:
+          - label: Marcos
+            name: items
+            widget: list
+            summary: "{{fields.year}} {{fields.title}}"
+            fields:
+              - {label: Ano, name: year, widget: number}
+              - {label: Título, name: title, widget: string}
+              - {label: Texto, name: text, widget: text}
+              - {label: Imagem, name: image, widget: image, required: false, choose_url: false}

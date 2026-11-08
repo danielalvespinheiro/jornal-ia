@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "id": "aula-1",
+      "cat": "Introdução à Inteligência Artificial",
+      "level": "Iniciante",
+      "title": "Introdução à Inteligência Artificial",
+      "desc": "O que é IA, o que não é e onde ela já está no dia a dia.",
+      "content": "Conteúdo demonstrativo do módulo: O que é IA, o que não é e onde ela já está no dia a dia. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    },
+    {
+      "id": "aula-2",
+      "cat": "Fundamentos da IA",
+      "level": "Iniciante",
+      "title": "Fundamentos da IA",
+      "desc": "Lógica, busca, representação do conhecimento e agentes.",
+      "content": "Conteúdo demonstrativo do módulo: Lógica, busca, representação do conhecimento e agentes. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    },
+    {
+      "id": "aula-3",
+      "cat": "Machine Learning",
+      "level": "Intermediário",
+      "title": "Machine Learning",
+      "desc": "Aprendizado supervisionado, não supervisionado e avaliação de modelos.",
+      "content": "Conteúdo demonstrativo do módulo: Aprendizado supervisionado, não supervisionado e avaliação de modelos. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    },
+    {
+      "id": "aula-4",
+      "cat": "Deep Learning",
+      "level": "Avançado",
+      "title": "Deep Learning",
+      "desc": "Camadas, retropropagação e por que a profundidade funciona.",
+      "content": "Conteúdo demonstrativo do módulo: Camadas, retropropagação e por que a profundidade funciona. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    },
+    {
+      "id": "aula-5",
+      "cat": "Redes Neurais",
+      "level": "Intermediário",
+      "title": "Redes Neurais",
+      "desc": "Neurônios artificiais, pesos e funções de ativação, passo a passo.",
+      "content": "Conteúdo demonstrativo do módulo: Neurônios artificiais, pesos e funções de ativação, passo a passo. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    },
+    {
+      "id": "aula-6",
+      "cat": "Inteligência Artificial Generativa",
+      "level": "Intermediário",
+      "title": "Inteligência Artificial Generativa",
+      "desc": "Como modelos criam texto, imagem e áudio.",
+      "content": "Conteúdo demonstrativo do módulo: Como modelos criam texto, imagem e áudio. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    },
+    {
+      "id": "aula-7",
+      "cat": "Engenharia de Prompts",
+      "level": "Iniciante",
+      "title": "Engenharia de Prompts",
+      "desc": "Como pedir bem: contexto, exemplos e formato de resposta.",
+      "content": "Conteúdo demonstrativo do módulo: Como pedir bem: contexto, exemplos e formato de resposta. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    },
+    {
+      "id": "aula-8",
+      "cat": "Ferramentas de IA",
+      "level": "Iniciante",
+      "title": "Ferramentas de IA",
+      "desc": "Panorama de assistentes, buscadores e ferramentas de criação.",
+      "content": "Conteúdo demonstrativo do módulo: Panorama de assistentes, buscadores e ferramentas de criação. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    },
+    {
+      "id": "aula-9",
+      "cat": "IA na educação",
+      "level": "Intermediário",
+      "title": "IA na educação",
+      "desc": "Planejar aulas, personalizar estudo e avaliar com integridade.",
+      "content": "Conteúdo demonstrativo do módulo: Planejar aulas, personalizar estudo e avaliar com integridade. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    },
+    {
+      "id": "aula-10",
+      "cat": "IA no mercado de trabalho",
+      "level": "Intermediário",
+      "title": "IA no mercado de trabalho",
+      "desc": "Tarefas que mudam, habilidades que crescem e novas funções.",
+      "content": "Conteúdo demonstrativo do módulo: Tarefas que mudam, habilidades que crescem e novas funções. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    },
+    {
+      "id": "aula-11",
+      "cat": "Ética e futuro da IA",
+      "level": "Avançado",
+      "title": "Ética e futuro da IA",
+      "desc": "Viés, privacidade, transparência e regulação.",
+      "content": "Conteúdo demonstrativo do módulo: Viés, privacidade, transparência e regulação. Esta aula será expandida com texto, exercícios e leituras.",
+      "extra": [
+        "Leitura complementar em PDF (Biblioteca)",
+        "Vídeo aula relacionada"
+      ]
+    }
+  ]
+}

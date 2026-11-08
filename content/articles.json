@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "id": "turing-maquina",
+      "cat": "História da IA",
+      "title": "Turing e a pergunta que não calou",
+      "sub": "Em 1950, um artigo trocou 'as máquinas pensam?' por um jogo de imitação.",
+      "author": "Redação",
+      "date": "2024-01-10",
+      "year": 1950,
+      "sections": [
+        {
+          "heading": "O artigo de 1950",
+          "text": "Alan Turing publicou 'Computing Machinery and Intelligence' na revista Mind. Em vez de definir 'pensar', propôs um teste prático: um interrogador conversa por escrito com uma pessoa e uma máquina e tenta descobrir quem é quem."
+        },
+        {
+          "heading": "Por que ainda importa",
+          "text": "O teste influenciou décadas de debate sobre linguagem, imitação e compreensão. Hoje, com modelos de linguagem fluentes, ele volta a ser discutido, agora com ressalvas sobre o que a fluência realmente prova."
+        }
+      ],
+      "refs": [
+        "TURING, A. M. Computing Machinery and Intelligence. Mind, v. 59, n. 236, 1950."
+      ]
+    },
+    {
+      "id": "dartmouth-1956",
+      "cat": "História da IA",
+      "title": "Verão de 1956: nasce um campo",
+      "sub": "Dartmouth reuniu pesquisadores com uma aposta ousada e um nome novo.",
+      "author": "Redação",
+      "date": "2024-02-15",
+      "year": 1956,
+      "sections": [
+        {
+          "heading": "A proposta",
+          "text": "John McCarthy, Marvin Minsky, Nathaniel Rochester e Claude Shannon propuseram um estudo de dois meses sobre simular a inteligência em máquinas. O termo 'inteligência artificial' aparece nesse documento."
+        },
+        {
+          "heading": "O legado",
+          "text": "O otimismo inicial foi excessivo, mas a conferência deu identidade, financiamento e comunidade a uma área inteira."
+        }
+      ],
+      "refs": [
+        "McCARTHY, J. et al. A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, 1955."
+      ]
+    },
+    {
+      "id": "invernos-da-ia",
+      "cat": "Pesquisas",
+      "title": "Os invernos da IA e suas lições",
+      "sub": "Promessas demais, resultados de menos: o ciclo que cortou verbas duas vezes.",
+      "author": "Redação",
+      "date": "2024-03-12",
+      "year": 1974,
+      "sections": [
+        {
+          "heading": "Primeiro inverno",
+          "text": "Nos anos 1970, limites de computação e relatórios críticos reduziram o apoio à pesquisa."
+        },
+        {
+          "heading": "Segundo inverno",
+          "text": "Após o auge dos sistemas especialistas, o custo de manutenção e a fragilidade das regras levaram a nova retração no fim dos anos 1980."
+        }
+      ],
+      "refs": [
+        "CREVIER, D. AI: The Tumultuous History of the Search for Artificial Intelligence. Basic Books, 1993."
+      ]
+    },
+    {
+      "id": "como-llms-aprendem",
+      "cat": "Notícias e descobertas",
+      "title": "Como um modelo de linguagem aprende a prever palavras",
+      "sub": "Do texto bruto ao ajuste fino: as etapas, sem mistério.",
+      "author": "Redação",
+      "date": "2025-02-20",
+      "year": 2017,
+      "sections": [
+        {
+          "heading": "Pré-treinamento",
+          "text": "O modelo lê grandes volumes de texto e aprende a prever o próximo trecho. A arquitetura Transformer, de 2017, tornou isso eficiente."
+        },
+        {
+          "heading": "Ajuste e alinhamento",
+          "text": "Depois, o modelo é refinado com exemplos e avaliações humanas para seguir instruções com mais utilidade e segurança."
+        }
+      ],
+      "refs": [
+        "VASWANI, A. et al. Attention Is All You Need. NeurIPS, 2017."
+      ]
+    },
+    {
+      "id": "ferramentas-estudo",
+      "cat": "Ferramentas de IA",
+      "title": "Cinco usos de assistentes de IA para estudar",
+      "sub": "Explicar, resumir, testar, comparar e revisar, com senso crítico.",
+      "author": "Redação",
+      "date": "2025-06-05",
+      "year": 2023,
+      "sections": [
+        {
+          "heading": "Explicar e testar",
+          "text": "Peça explicações em níveis diferentes e questionários sobre o que você acabou de ler."
+        },
+        {
+          "heading": "Verificar sempre",
+          "text": "Modelos podem errar com confiança. Confira datas, números e citações em fontes primárias."
+        }
+      ],
+      "refs": [
+        "UNESCO. Guidance for generative AI in education and research, 2023."
+      ]
+    },
+    {
+      "id": "etica-vieses",
+      "cat": "Ética e impactos sociais",
+      "title": "Vieses nos dados, danos nas decisões",
+      "sub": "Por que sistemas treinados com o passado podem repetir o passado.",
+      "author": "Redação",
+      "date": "2025-09-14",
+      "year": 2018,
+      "sections": [
+        {
+          "heading": "De onde vem o viés",
+          "text": "Dados históricos refletem desigualdades. Um modelo que os imita pode reproduzi-las em crédito, contratação ou segurança."
+        },
+        {
+          "heading": "O que fazer",
+          "text": "Auditar dados, medir resultados por grupo, documentar limites e manter pessoas responsáveis pela decisão final."
+        }
+      ],
+      "refs": [
+        "BUOLAMWINI, J.; GEBRU, T. Gender Shades. PMLR, 2018."
+      ]
+    }
+  ]
+}

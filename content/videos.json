@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "title": "O que é Inteligência Artificial?",
+      "cat": "Introdução",
+      "dur": "12 min",
+      "desc": "Uma visão geral para quem está começando.",
+      "src": "/assets/videos/aula-intro.mp4",
+      "embed": ""
+    },
+    {
+      "title": "Redes neurais em 15 minutos",
+      "cat": "Redes Neurais",
+      "dur": "15 min",
+      "desc": "Do neurônio à rede completa.",
+      "src": "/assets/videos/aula-redes.mp4",
+      "embed": ""
+    },
+    {
+      "title": "Escrevendo bons prompts",
+      "cat": "Engenharia de Prompts",
+      "dur": "9 min",
+      "desc": "Contexto, exemplos e formato.",
+      "src": "/assets/videos/aula-prompts.mp4",
+      "embed": ""
+    },
+    {
+      "title": "IA e o futuro do trabalho",
+      "cat": "Mercado de trabalho",
+      "dur": "18 min",
+      "desc": "Tarefas, habilidades e transição.",
+      "src": "/assets/videos/aula-trabalho.mp4",
+      "embed": ""
+    }
+  ]
+}
