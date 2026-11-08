@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "sub": "Em 1950, um artigo trocou 'as máquinas pensam?' por um jogo de imitação. Agradeça a esse ateu e homessexual, pai da computaria",
+      "sub": "Em 1950, um artigo trocou 'as máquinas pensam?' por um jogo de imitação.",
       "refs": [
         "TURING, A. M. Computing Machinery and Intelligence. Mind, v. 59, n. 236, 1950."
       ],
@@ -9,7 +9,7 @@
       "sections": [
         {
           "heading": "O artigo de 1950",
-          "text": "Alan Turing publicou 'Computing Machinery and Intelligence' na revista Mind. Em vez de definir 'pensar', propôs um teste prático: um interrogador conversa por escrito com uma pessoa e uma máquina e tenta descobrir quem é quem.\n\n\nAAAAAAA."
+          "text": "Alan Turing publicou 'Computing Machinery and Intelligence' na revista Mind. Em vez de definir 'pensar', propôs um teste prático: um interrogador conversa por escrito com uma pessoa e uma máquina e tenta descobrir quem é quem."
         },
         {
           "heading": "Por que ainda importa",
@@ -18,7 +18,7 @@
       ],
       "date": "2024-01-10",
       "cat": "História da IA",
-      "title": "Turing e a pergunta que não calou a boca desse cara, fala demais.",
+      "title": "Turing e a pergunta que não calou.",
       "id": "turing-maquina",
       "year": 1950
     },
