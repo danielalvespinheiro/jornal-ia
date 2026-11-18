@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "title": "Guia de Introdução à IA",
-      "cat": "Introdução",
-      "type": "Guia",
-      "desc": "Conceitos básicos em linguagem simples.",
-      "file": "/assets/documents/guia-introducao-ia.pdf"
+      "title": "NOVOS PARADIGMAS E APLICAÇÕES DA INTELIGÊNCIA ARTIFICIAL",
+      "cat": "Paradigmas da aplicação da inteligência artificial ",
+      "type": "Artigo",
+      "desc": "O artigo apresenta técnicas e paradigmas utilizados para a construção de inteligência artificial.",
+      "file": "/assets/documents/novos-paradigmas.pdf"
     },
     {
-      "title": "Linha do Tempo da IA",
-      "cat": "História",
-      "type": "Infográfico",
-      "desc": "Marcos de 1950 aos dias atuais.",
-      "file": "/assets/documents/linha-do-tempo-ia.pdf"
+      "title": "(Em inglês) Aprendizado supervisionado versus não supervisionado: qual é a diferença?",
+      "cat": "Aprendizado Supervisionado e não supervisionado",
+      "type": "Artigo",
+      "desc": "Diferença entre os dois modelos de aprendizados, não supervisionados e supervisionados.",
+      "file": "/assets/documents/supervised-vs.-unsupervised-learning_-what’s-the-difference_-_-ibm.html"
     },
     {
       "title": "Caderno de Machine Learning",
