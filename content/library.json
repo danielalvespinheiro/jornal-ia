@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "O que é inteligência artificial (IA)",
+      "cat": "IA inteligência artificial",
+      "type": "Artigo",
+      "desc": "Artigo sobre inteligência artifical",
+      "file": "/assets/documents/o-que-é-inteligência-artificial-ia-_.pdf"
+    },
+    {
       "title": "NOVOS PARADIGMAS E APLICAÇÕES DA INTELIGÊNCIA ARTIFICIAL",
       "cat": "Paradigmas da aplicação da inteligência artificial ",
       "type": "Artigo",
@@ -12,14 +19,7 @@
       "cat": "Aprendizado Supervisionado e não supervisionado",
       "type": "Artigo",
       "desc": "Diferença entre os dois modelos de aprendizados, não supervisionados e supervisionados.",
-      "file": "/assets/documents/supervised-vs.-unsupervised-learning_-what’s-the-difference_-_-ibm.html"
-    },
-    {
-      "title": "Caderno de Machine Learning",
-      "cat": "Machine Learning",
-      "type": "Apostila",
-      "desc": "Exercícios de classificação e regressão.",
-      "file": "/assets/documents/caderno-machine-learning.pdf"
+      "file": "/assets/documents/supervised-vs.-unsupervised-learning_-what’s-the-difference_.pdf"
     },
     {
       "title": "Manual de Engenharia de Prompts",
